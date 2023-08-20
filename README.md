@@ -28,6 +28,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align=left>
 <img algin="left" width="57%" src="https://github-readme-stats.vercel.app/api?username=Tihon-Konstantinov&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,090979,00d4ff" />
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tihon-Konstantinov&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,00d4ff,090979" />
+<img src="https://www.codewars.com/users/Tihon-Konstantinov/badges/large"/>
 </p>
 
 ## *Contact me anytime*
